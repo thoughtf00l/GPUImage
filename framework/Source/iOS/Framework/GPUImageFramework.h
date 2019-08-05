@@ -51,6 +51,7 @@ FOUNDATION_EXPORT const unsigned char GPUImageFrameworkVersionString[];
 #import <GPUImage/GPUImageKuwaharaFilter.h>
 #import <GPUImage/GPUImageKuwaharaRadius3Filter.h>
 #import <GPUImage/GPUImageVignetteFilter.h>
+#import <GPUImage/GPUImageVibranceFilter.h>
 #import <GPUImage/GPUImageGaussianBlurFilter.h>
 #import <GPUImage/GPUImageGaussianBlurPositionFilter.h>
 #import <GPUImage/GPUImageGaussianSelectiveBlurFilter.h>
